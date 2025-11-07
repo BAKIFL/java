@@ -35,11 +35,15 @@ main {
 }
 
 img {
-    max-width: 100%;
+    max-width: 90%;
 }
 
 .bbh-sans-bogle-regular {
     font-family: "BBH Sans Bogle", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+.jesus {
+ max-width: 60%;
 }
